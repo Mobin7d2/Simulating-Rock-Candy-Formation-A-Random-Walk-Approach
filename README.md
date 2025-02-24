@@ -16,3 +16,5 @@ To determine the number of sugar molecules in each plate, I assumed their distri
 By integrating these components, I first solved the problem for a single 2D plate and then extended the solution to other 2D plates. Finally, I stacked these plates to construct a 3D representation of the Rock Candy formation.
 
 I hope you enjoy watching this simulation! If you have any suggestions, please feel free to contact me. :)
+
+![Screenshot from 2025-02-24 13-55-49](https://github.com/user-attachments/assets/e998f8cd-5524-4446-b77f-afdbcebbca3b)
