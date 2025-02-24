@@ -1,3 +1,5 @@
+![Screenshot from 2025-02-24 13-55-49](https://github.com/user-attachments/assets/e998f8cd-5524-4446-b77f-afdbcebbca3b)
+
 In this project, I have simulated the formation of Rock Candy using Random Walk and the principles of Thermodynamics.
 
 To begin, we must first ask ourselves, "How is Rock Candy made?" The simplified process is as follows:
@@ -17,4 +19,4 @@ By integrating these components, I first solved the problem for a single 2D plat
 
 I hope you enjoy watching this simulation! If you have any suggestions, please feel free to contact me. :)
 
-![Screenshot from 2025-02-24 13-55-49](https://github.com/user-attachments/assets/e998f8cd-5524-4446-b77f-afdbcebbca3b)
+
